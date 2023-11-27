@@ -13,7 +13,8 @@ Een echte klant kom bij de bar en vraagt "waar is het toilet?". En de bar vliegt
 ## De opdracht
 
 De bar is aangeleverd in bar.py (niet spieken!). 
-Aan jou om testen te schrijven om bovenstaand gedrag vast te leggen.
+Aan jou om testen te schrijven om bovenstaand gedrag vast te leggen 
+& extra scenario's er bij te verzinnen die misschien zinnig zijn om te testen.
 
 Een opzetje is gedaan in bar_test.py.
 
