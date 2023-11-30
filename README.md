@@ -19,3 +19,8 @@ Aan jou om testen te schrijven om bovenstaand gedrag vast te leggen
 Een opzetje is gedaan in bar_test.py.
 
 De testen kan je draaien vanuit je IDE of met `python bar_test.py -v`
+
+## Coverage
+
+'python -m coverage run [file]'
+'python -m coverage html'
